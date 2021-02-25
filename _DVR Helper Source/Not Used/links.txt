@@ -1,0 +1,6 @@
+https://zone.ni.com/reference/en-XX/help/371361R-01/lvhowto/scripting_quick_reference/
+https://forums.ni.com/t5/LabVIEW/scripting-create-array-indicator/td-p/3282674?profile.language=en
+https://lavag.org/topic/18366-how-to-programmatically-create-lvclass-method-vi/
+
+
+
