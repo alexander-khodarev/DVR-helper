@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-01-07 14:32:33" Modified_Date="2020-09-09 15:23:25" Creator="Alexander Khodarev" Comments="" ID="c0394b52ab19167201247aacca87f5be">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-01-07 14:32:33" Modified_Date="2021-02-25 16:47:19" Creator="Alexander Khodarev" Comments="" ID="705be45ba4abfa6d73116bf5a91ebb65">
   <Library_General_Settings>
     <Package_File_Name>EUV_Tech_lib_DVR_Helper</Package_File_Name>
-    <Library_Version>1.0.0.12</Library_Version>
+    <Library_Version>1.0.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\_VIPM built packages\DVR Helper</Library_Output_Folder>
@@ -28,7 +28,10 @@
     <VI_Package_Configuration_File>DVR Helper.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary/>
-      <Description/>
+      <Description>Fast and easy way to create accessors for DVR based classes. Works similar to native Labview accessor creator (which only works for objects-by-wire). Right click DVR in the class control, select properties for which you want to create accessors and click ok.
+PDF manual is located in following directory:
+C:\Program Files (x86)\National Instruments\LabVIEW 2018\resource\plugins\PopupMenus\edit time panel and diagram\_DVR Helper Source\Documentation
+(check path for Labview version)</Description>
       <Copyright/>
       <Packager>Alexander Khodarev</Packager>
       <URL/>
